@@ -1,0 +1,22 @@
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# 依赖 / 构建产物
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# 日志 / 临时
+*.log
+tmp/
+.cache/
